@@ -15,7 +15,7 @@ I would summarize myself as a person curious about technologies, adventures and 
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/teja-kancheti-707086118/) :sparkler:
 
 
 ### What do I do apart from technology
