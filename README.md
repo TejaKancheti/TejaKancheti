@@ -3,7 +3,7 @@
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
-###  👋 I am Teja Kancheti, currently a Master student in Data science
+###  👋 I am Teja Kancheti, currently a Master student in Computer science
 
 ### About Me 
 I would summarize myself as a person curious about technologies, adventures and exploring people. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization. I love contributing to the Open Source Domain, digging deeper in the field of Cloud Computing, Machine Learning and see myself working in MLOps / AIOps in the future.
